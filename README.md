@@ -9,3 +9,6 @@
 
 # Pandas
 - https://youtu.be/vmEHCJofslg?si=gPrFy3C4tejIk57O
+
+# matplotlib and seaborn
+- i just revise my old notes, i didn't bother to make a new one
