@@ -12,3 +12,6 @@
 
 # matplotlib and seaborn
 - i just revise my old notes, i didn't bother to make a new one
+
+# Linear Regression Single Variable
+- https://youtu.be/8jazNUpO3lQ?si=w0jbPxxcsFgm9eMl
